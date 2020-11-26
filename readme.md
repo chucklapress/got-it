@@ -1,21 +1,15 @@
 # Got It
 
-Foobar is a Python library for dealing with word pluralization.
+Purpose of the repo is simply to proof the markdown.  
+Specifically having the ability to render a png image in the readme.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install stuff.
+The correct syntax for rendering is:  
+answered correctly here
+[stackoverflow](https://stackoverflow.com/a/13063862/6137740)
 
-```bash
-pip install stuff
-```
 
-## Usage
-
-```python
-import stuff
-
-```  
 ## Image  
 ![](images/got-it.png?raw=true)
 
